@@ -1,0 +1,21 @@
+﻿Superman | Kale-El, Clark Joseph Kent | Male | Krypton | GOOD | DC
+Wonder Woman | Dianna Prince | Female | Earth | GOOD | DC
+Batman | Bruce Wayne | Male | Earth | GOOD | DC
+Green Lantern | Hal Jordan | Male | Earth | GOOD | DC
+The Flash | Barry Allen | Male | Earth | GOOD | DC
+Cyborg | Vic Stone | Male | Earth | GOOD | DC
+Aquaman | Arthur Curry | Male | Earth | GOOD | DC
+Darkseid | Uxas | Male | Apokolips | EVIL | DC
+Doomsday | N/A | Male | Krypton | EVIL | DC
+Killer Frost | Caitlin Snow | Female | Earth | EVIL | DC
+Brainiac | N/A | Male | Colu | EVIL | DC
+Thor Odinson | N/A | Male | Asgard | GOOD | MARVEL
+Iron Man | Tony Stark | Male | Earth | GOOD | MARVEL
+Ms. Marvel | Kamala Kahn | Female | Earth | GOOD | MARVEL
+Captain Marvel | Carol Danvers | Female | Earth | GOOD | MARVEL
+The Hulk | Bruce Banner | Male | Earth | GOOD | MARVEL
+Deadpool | Wade Wilson | Male | Earth | ANTIHERO | MARVEL
+Punisher | Frank Castle | Male | Earth | ANTIHERO | MARVEL
+Thanos | N/A | Male | Titan | EVIL | MARVEL
+Galactus | N/A | Male | Universe Before the Big Bang | EVIL | MARVEL
+Hela | N/A | Female | Asgard | EVIL | MARVEL
